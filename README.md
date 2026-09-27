@@ -66,7 +66,9 @@ The project includes an interactive Power BI dashboard containing:
 - `Heart Disease Prediction.ipynb` — Machine learning notebook
 - `heart.csv` — Dataset
 - `Heart Disease Prediction.pbix` — Power BI report
+## Dashboard Preview
 
+![Heart Disease Dashboard](images/dashboard.png)
 ## Project Workflow
 
 Python Dataset
